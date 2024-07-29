@@ -1,3 +1,4 @@
+![logo](https://github.com/MohammedAkramU7/Mohd-Akram-Uddin/blob/main/Akram.png)
 <h1 align="center">Hi 👋, I'm Mohd Akram Uddin</h1>
 <h3 align="center">A passionate wordpress developer from India</h3>
 
