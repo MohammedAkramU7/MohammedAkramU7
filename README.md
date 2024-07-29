@@ -3,7 +3,8 @@
 
 <img align="right" alt="DevOps" width="300" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedakramu7" alt="mohammedakramu7" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammedakramu7&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedakramu7" /> </p>
+
 
 - 🌱 I’m currently learning **DevOps AWS**
 
