@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://gurzu.com/img/gurzu/mern-stack-01.webp" alt="vagrant" width="40" height="40"/> 
+    <img src="https://gurzu.com/img/gurzu/mern-stack-01.webp" alt="vagrant" width="80" height="40"/> 
   </a> 
 </p>
 
