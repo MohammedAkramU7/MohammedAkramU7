@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **mohdakramu7@gmail.com or mohammedakramuddin23@gmail.com**
 
-- 📄 Know about my experiences <button href="https://github.com/MohammedAkramU7/MohammedAkramU7/blob/main/Akram-resume.pdf">Click here to download Resume</button>
+- 📄 Know about my experiences <a href="https://github.com/MohammedAkramU7/MohammedAkramU7/blob/main/Akram-resume.pdf" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">📄 Click here to download Resume</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
