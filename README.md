@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohdakramu7@gmail.com or mohammedakramuddin23@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/fq8mm9x4a6peje3p9uy0x/Resume-2.docx?rlkey=itdvj0n46ffixeiyukiuoxtio&st=56lycra7&dl=0](https://www.dropbox.com/scl/fi/fq8mm9x4a6peje3p9uy0x/Resume-2.docx?rlkey=itdvj0n46ffixeiyukiuoxtio&st=56lycra7&dl=0)
+- 📄 Know about my experiences <button href="https://github.com/MohammedAkramU7/MohammedAkramU7/blob/main/Akram-resume.pdf">Click here to download Resume</button>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
